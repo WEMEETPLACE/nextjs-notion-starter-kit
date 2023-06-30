@@ -20,6 +20,6 @@ module.exports = withBundleAnalyzer({
     contentSecurityPolicy: "default-src 'self'; script-src 'none'; sandbox;"
   },
   experimental: {
-    outputStandalone: true
+    output: 'standalone'
   }
 })
