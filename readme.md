@@ -1,4 +1,6 @@
-개인정보 처리방침/이용약관 등 notion 문서를 페이지화 시키는 패키지 입니다.
+#개인정보 처리방침/이용약관 등 notion 문서를 SSR로 렌더링
+
+## https://policy.roouty.io
 
 
 URL: NotionId
