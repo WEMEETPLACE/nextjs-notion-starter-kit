@@ -10,11 +10,11 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Roouty',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'Travis Fischer',
+  domain: 'policy.roouty.io',
+  author: 'Roouty',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Roouty TOS Page',
 
   // social usernames (optional)
   twitter: '#',
