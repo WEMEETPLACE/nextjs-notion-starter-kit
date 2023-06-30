@@ -43,6 +43,7 @@ export default siteConfig({
   // example:
   //
   pageUrlOverrides: {
+    '/term_of_service': '5f877620d9cf4fb0a1775f5935594af1',
     '/tos': '5f877620d9cf4fb0a1775f5935594af1',
     '/policy_privacy': '7d5f9fdb27fd480fbc1e4f267d8073e9',
     '/aggrement_marketing': 'ec0f6de6c2a04d0fb929779197a53945',
